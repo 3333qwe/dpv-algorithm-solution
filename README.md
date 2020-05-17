@@ -10,12 +10,12 @@ format:
 ```
 ### what is the annotation of T(i,j) or T(i)
 
-
 ### what is sub problem
 
 ### what is algorithm
 
 ### complexity
+
 ```
 
 Happy coding!
