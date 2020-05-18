@@ -8,13 +8,13 @@ If you want to help this, just send a PR to this repo.
 format:
 
 ```
-### what is the annotation of T(i,j) or T(i)
+### What is the annotation of T(i,j) or T(i)
 
-### what is sub problem
+### What is sub problem
 
-### what is algorithm
+### What is algorithm
 
-### complexity
+### Complexity
 
 ```
 
